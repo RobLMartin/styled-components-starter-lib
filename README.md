@@ -8,7 +8,9 @@ This is a starter library for styled-components, the only peer-dependency is **s
 
 ## 1. Dist Folder
 
-This is the node_module, we wont be publishing until we finish our components. Instead use `npm link dist/core` to publish the bundle locally. Snag the first link from the terminal.
+First`npm run dev`
+
+The Dist Folder is the node_module, we wont be publishing until we finish our components. Instead use `npm link dist/core` to publish the bundle locally. Snag the first link from the terminal.
 
 > You now have a local version of your module.
 
